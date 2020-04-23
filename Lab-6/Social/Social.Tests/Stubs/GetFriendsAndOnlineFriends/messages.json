@@ -1,0 +1,16 @@
+[
+  {
+    "AuthorId": 1,
+    "Likes": [
+      59,
+      73,
+      84,
+      85,
+      47,
+      67
+    ],
+    "MessageId": 1,
+    "SendDate": "2019-02-27T00:00:00",
+    "Text": "How is the weather?"
+  }
+]

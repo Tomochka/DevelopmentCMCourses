@@ -1,0 +1,90 @@
+[
+  {
+    "DateOfBirth": "2000-08-31T00:00:00",
+    "Gender": 0,
+    "LastVisit": "2019-02-23T00:00:00",
+    "Name": "Peter",
+    "Online": false,
+    "UserId": 1
+  },
+  {
+    "DateOfBirth": "1969-06-02T00:00:00",
+    "Gender": 0,
+    "LastVisit": "2019-03-22T00:00:00",
+    "Name": "Jack",
+    "Online": true,
+    "UserId": 2
+  },
+  {
+    "DateOfBirth": "2012-06-29T00:00:00",
+    "Gender": 0,
+    "LastVisit": "2019-04-01T00:00:00",
+    "Name": "John",
+    "Online": false,
+    "UserId": 3
+  },
+  {
+    "DateOfBirth": "1992-03-23T00:00:00",
+    "Gender": 1,
+    "LastVisit": "2019-02-03T00:00:00",
+    "Name": "Elizabeth",
+    "Online": false,
+    "UserId": 4
+  },
+  {
+    "DateOfBirth": "1961-04-02T00:00:00",
+    "Gender": 0,
+    "LastVisit": "2019-01-27T00:00:00",
+    "Name": "Martin",
+    "Online": true,
+    "UserId": 5
+  },
+  {
+    "DateOfBirth": "1995-07-10T00:00:00",
+    "Gender": 0,
+    "LastVisit": "2019-01-27T00:00:00",
+    "Name": "Kirill",
+    "Online": true,
+    "UserId": 6
+  },
+  {
+    "DateOfBirth": "1972-11-05T00:00:00",
+    "Gender": 1,
+    "LastVisit": "2019-01-27T00:00:00",
+    "Name": "Olga",
+    "Online": true,
+    "UserId": 7
+  },
+  {
+    "DateOfBirth": "1962-05-22T00:00:00",
+    "Gender": 0,
+    "LastVisit": "2019-01-27T00:00:00",
+    "Name": "Anton",
+    "Online": false,
+    "UserId": 8
+  },
+  {
+    "DateOfBirth": "1975-12-11T00:00:00",
+    "Gender": 1,
+    "LastVisit": "2019-01-27T00:00:00",
+    "Name": "Maria",
+    "Online": false,
+    "UserId": 9
+  },
+  {
+    "DateOfBirth": "1985-05-25T00:00:00",
+    "Gender": 0,
+    "LastVisit": "2019-01-27T00:00:00",
+    "Name": "Oliver",
+    "Online": true,
+    "UserId": 10
+  },
+  {
+    "DateOfBirth": "1998-05-12T00:00:00",
+    "Gender": 1,
+    "LastVisit": "2019-01-27T00:00:00",
+    "Name": "Ket",
+    "Online": false,
+    "UserId": 11
+  }
+]

@@ -1,0 +1,92 @@
+[
+    {
+        "FromUserId": 1,
+        "SendDate": "2013-01-24T00:00:00",
+        "Status": 1,
+        "ToUserId": 3
+    },
+    {
+        "FromUserId": 4,
+        "SendDate": "2013-02-09T00:00:00",
+        "Status": 2,
+        "ToUserId": 1
+    },
+    {
+        "FromUserId": 4,
+        "SendDate": "2013-02-09T00:00:00",
+        "Status": 0,
+        "ToUserId": 9
+    },
+    {
+        "FromUserId": 7,
+        "SendDate": "2013-02-09T00:00:00",
+        "Status": 1,
+        "ToUserId": 4
+    },
+    {
+        "FromUserId": 1,
+        "SendDate": "2013-01-02T00:00:00",
+        "Status": 1,
+        "ToUserId": 5
+    },
+    {
+        "FromUserId": 5,
+        "SendDate": "2013-03-15T00:00:00",
+        "Status": 2,
+        "ToUserId": 1
+    },
+    {
+        "FromUserId": 2,
+        "SendDate": "2013-02-09T00:00:00",
+        "Status": 3,
+        "ToUserId": 3
+    },
+    {
+        "FromUserId": 4,
+        "SendDate": "2013-02-09T00:00:00",
+        "Status": 2,
+        "ToUserId": 5
+    },
+    {
+        "FromUserId": 4,
+        "SendDate": "2013-02-09T00:00:00",
+        "Status": 2,
+        "ToUserId": 11
+    },
+    {
+        "FromUserId": 2,
+        "SendDate": "2013-02-09T00:00:00",
+        "Status": 2,
+        "ToUserId": 4
+    },
+    {
+        "FromUserId": 3,
+        "SendDate": "2013-02-09T00:00:00",
+        "Status": 2,
+        "ToUserId": 4
+    },
+    {
+        "FromUserId": 4,
+        "SendDate": "2013-02-09T00:00:00",
+        "Status": 0,
+        "ToUserId": 6
+    },
+    {
+        "FromUserId": 6,
+        "SendDate": "2013-02-09T00:00:00",
+        "Status": 1,
+        "ToUserId": 4
+    },
+    {
+        "FromUserId": 4,
+        "SendDate": "2013-02-09T00:00:00",
+        "Status": 1,
+        "ToUserId": 10
+    },
+    {
+        "FromUserId": 10,
+        "SendDate": "2013-02-09T00:00:00",
+        "Status": 0,
+        "ToUserId": 4
+    }
+]

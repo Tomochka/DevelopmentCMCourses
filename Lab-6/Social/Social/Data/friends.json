@@ -1,0 +1,10 @@
+[{"FromUserId": 1,"SendDate": "2019-09-27T19:54:53.7421954+03:00","Status": 2,"ToUserId": 2},
+{"FromUserId": 3,"SendDate": "2019-09-27T19:54:53.7421954+03:00","Status": 2,"ToUserId": 1},
+{"FromUserId": 1,"SendDate": "2019-09-27T19:54:53.7421954+03:00","Status": 0,"ToUserId": 4},
+{"FromUserId": 4,"SendDate": "2019-09-27T19:54:53.7421954+03:00","Status": 0,"ToUserId": 1},
+{"FromUserId": 1,"SendDate": "2019-09-27T19:54:53.7421954+03:00","Status": 1,"ToUserId": 5},
+{"FromUserId": 5,"SendDate": "2019-09-27T19:54:53.7421954+03:00","Status": 1,"ToUserId": 1},
+{"FromUserId": 1,"SendDate": "2019-09-27T19:54:53.7421954+03:00","Status": 3,"ToUserId": 6},
+{"FromUserId": 6,"SendDate": "2019-09-27T19:54:53.7421954+03:00","Status": 3,"ToUserId": 1},
+{"FromUserId": 7,"SendDate": "2019-09-27T19:54:53.7421954+03:00","Status": 0,"ToUserId": 1},
+{"FromUserId": 8,"SendDate": "2020-02-22T19:54:53.7421954+03:00","Status": 0,"ToUserId": 1}]

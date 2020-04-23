@@ -1,0 +1,4 @@
+[{"AuthorId": 1,"Likes": [2,3],"MessageId": 1,"SendDate": "2019-02-27T00:00:00","Text": "ERROR: NOT RELEVANT"},
+{"AuthorId": 2,"Likes": [3,4,5],"MessageId": 2,"SendDate": "2019-02-27T00:00:00","Text": "ERROR: OUTDATED"},
+{"AuthorId": 3,"Likes": [1,2,3],"MessageId": 3,"SendDate": "2020-02-21T12:00:00","Text": "Success"},
+{"AuthorId": 9,"Likes": [1,2,3],"MessageId": 4,"SendDate": "2019-02-21T12:00:00","Text": "ERROR: NOT RELEVANT"}]
