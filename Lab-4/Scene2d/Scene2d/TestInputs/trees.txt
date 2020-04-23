@@ -1,0 +1,28 @@
+add rectangle R1 (-700, -300) (-500, -600)
+
+add rectangle R2 (600, -200) (400, -900)
+
+add circle C2 (500,200) radius 500
+
+add polygon P1
+ 
+add point (-1100, -300)
+
+add point (-700, 200)
+
+add point (-1000, 200)
+add point (-700, 600)
+
+add point (-900, 600)
+
+add point (-600, 1000)
+add point (-300, 600)
+
+add point (-500, 600)
+
+add point (-200, 200)
+add point (-500, 200)
+add point (-100, -300)
+end polygon
+reflect horizontally scene
+reflect vertically scene

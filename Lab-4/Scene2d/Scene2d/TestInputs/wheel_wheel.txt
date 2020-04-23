@@ -1,0 +1,72 @@
+﻿
+add circle BASE (0,0) radius 600
+
+delete scene
+
+add circle BASE1 (0,0) radius 300
+
+delete BASE1
+
+add rectangle R1 (-10, -20) (10, 20)
+
+move scene (-80, 0)
+add rectangle R2 (-10, -20) (10, 20)
+
+move scene (40, 0)
+
+group R1, R2 as G1
+
+copy G1 to G2
+
+rotate G2 30
+
+copy G2 to G3
+
+rotate G3 30
+copy G3 to G4
+
+rotate G4 30
+
+copy G4 to G5
+
+rotate G5 30
+
+add rectangle TICK1 (-100, -2) (100, 2)
+
+rotate scene 30
+
+add rectangle TICK2 (-100, -2) (100, 2)
+
+rotate scene 30
+
+add rectangle TICK3 (-100, -2) (100, 2)
+
+rotate scene 30
+
+add rectangle TICK4 (-100, -2) (100, 2)
+
+rotate scene 30
+
+add rectangle TICK5 (-100, -2) (100, 2)
+
+rotate scene 30
+
+add rectangle TICK6 (-100, -2) (100, 2)
+
+rotate scene 30
+
+add circle CENTER1 (0,0) radius 1
+
+add circle CENTER2 (0,0) radius 2
+
+add circle CENTER3 (0,0) radius 3
+
+add circle CENTER4 (0,0) radius 4
+
+add circle CENTER5 (0,0) radius 5
+
+add circle CENTER_OUTER1 (0,0) radius 100
+
+add circle CENTER_OUTER2 (0,0) radius 101
+
+add circle CENTER_OUTER3 (0,0) radius 103

@@ -1,0 +1,35 @@
+﻿add circle BASE (0,0) radius 600
+add circle BASE1 (0,0) radius 88
+add circle BASE2 (0,0) radius 212
+add polygon T1
+ add point (0, 0)
+ add point (-300, -300)
+ add point (-300, 300)
+end polygon
+copy T1 to T2
+reflect vertically T2
+move T2 (400, 0)
+copy T1 to T3
+rotate T3 90
+move T3 (200, -200)
+copy T3 to T4
+reflect horizontally T4
+move T4 (0, 400)
+add circle C1 (-300, 0) radius 212
+copy C1 to C2
+move C2 (600, 0)
+copy C1 to C3
+move C3 (300, -300)
+copy C1 to C4
+move C4 (300, 300)
+add rectangle R1 (-212, -212) (212, 212)
+move R1 (-300, 0)
+rotate R1 45
+copy R1 to R2
+move R2 (600, 0)
+add rectangle R3 (-424, -212) (424, 212)
+rotate R3 45
+move R3 (150, -150)
+copy R3 to R4
+reflect horizontally R4
+move R4 (0, 300)
